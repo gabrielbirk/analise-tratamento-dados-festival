@@ -1,0 +1,121 @@
+id_compra;id_cliente;idade_cliente;genero;estado_origem;setor_ingresso;lote;tipo_categoria;valor_pago;meio_pagamento;data_hora_compra
+LBL-10000;USR-1042;24,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 14:30:00
+LBL-10001;USR-3105;31,0;Masculino;RJ;Pista Premium;1º Lote;Inteira;680,0;Cartão de Crédito - Vista;2025-11-05 14:32:15
+LBL-10002;USR-5211;27,0;Feminino;MG;Lounge VIP;1º Lote;Inteira;1250,0;Cartão de Crédito - Parcelado;2025-11-05 14:35:00
+LBL-10003;USR-1042;24,0;Feminino;SP;Passaporte 3 Dias;1º Lote;Meia Social (Alimento);490,0;PIX;2025-11-06 10:15:22
+LBL-10004;USR-8921;19,0;Não-Binário;RS;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;07/11/2025 20:45
+LBL-10005;USR-4112;45,0;Masculino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;2025-12-01 09:12:00
+LBL-10006;USR-7301;22,0;Feminino;PR;Pista Premium;2º Lote;Meia Estudante;391,0;PIX;2025-12-02 22:10:05
+LBL-10007;USR-9012;27,0;Masculino;SP;Pista Comum;2º Lote;Inteira;414,0;Boleto;2025-12-03 18:00:00
+LBL-10008;USR-1102;28,0;Feminino;SC;Passaporte 3 Dias;2º Lote;Inteira;1127,0;Cartão de Crédito - Vista;2025-12-05 15:20:11
+LBL-10009;USR-6420;17,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-10 11:05:00
+LBL-10010;USR-3310;38,0;Não informado;BA;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;15/01/2026 16:40
+LBL-10011;USR-5541;21,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;2026-01-16 21:00:30
+LBL-10012;USR-2109;26,0;Feminino;DF;Pista Premium;1º Lote;Inteira;680,0;Cartão de Crédito - Vista;2025-11-12 13:14:00
+LBL-10013;USR-8811;29,0;Masculino;PE;Passaporte 3 Dias;2º Lote;Meia Estudante;563,5;Cartão de Crédito - Parcelado;2025-12-10 19:50:00
+LBL-10014;USR-1042;24,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 14:30:00
+LBL-10015;USR-1201;23,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 14:31:00
+LBL-10016;USR-1202;27,0;Masculino;RJ;Pista Comum;1º Lote;Inteira;360,0;Cartão de Crédito - Vista;2025-11-05 14:33:00
+LBL-10017;USR-1203;19,0;Feminino;SP;Pista Premium;1º Lote;Meia Estudante;340,0;PIX;2025-11-05 14:36:00
+LBL-10018;USR-1204;27,0;Masculino;MG;Pista Comum;1º Lote;Inteira;360,0;Boleto;2025-11-05 14:40:00
+LBL-10019;USR-1205;33,0;Feminino;SP;Lounge VIP;1º Lote;Inteira;1250,0;Cartão de Crédito - Parcelado;2025-11-05 14:42:00
+LBL-10020;USR-1206;21,0;Não-Binário;PR;Pista Comum;1º Lote;Meia Social (Alimento);180,0;PIX;2025-11-05 14:45:00
+LBL-10021;USR-1207;25,0;Masculino;SP;Passaporte 3 Dias;1º Lote;Inteira;980,0;Cartão de Crédito - Vista;2025-11-05 14:50:00
+LBL-10022;USR-1208;22,0;Feminino;SC;Pista Premium;1º Lote;Meia Estudante;340,0;PIX;2025-11-05 15:00:00
+LBL-10023;USR-1209;30,0;Masculino;RS;Pista Comum;1º Lote;Inteira;360,0;PIX;2025-11-05 15:10:00
+LBL-10024;USR-1210;18,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 15:15:00
+LBL-10025;USR-1211;41,0;Masculino;SP;Lounge VIP;1º Lote;Inteira;1250,0;Cartão de Crédito - Parcelado;2025-11-05 15:30:00
+LBL-10026;USR-1212;26,0;Feminino;BA;Passaporte 3 Dias;1º Lote;Meia Estudante;490,0;Cartão de Crédito - Parcelado;2025-11-05 16:00:00
+LBL-10027;USR-1213;20,0;Masculino;SP;Pista Comum;1º Lote;Meia Social (Alimento);180,0;PIX;2025-11-05 16:20:00
+LBL-10028;USR-1214;29,0;Feminino;RJ;Pista Premium;1º Lote;Inteira;680,0;Cartão de Crédito - Vista;2025-11-05 17:00:00
+LBL-10029;USR-1215;35,0;Masculino;DF;Lounge VIP;1º Lote;Inteira;1250,0;Cartão de Crédito - Parcelado;2025-11-05 17:30:00
+LBL-10030;USR-1216;24,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 18:00:00
+LBL-10031;USR-1217;27,0;Masculino;MG;Pista Comum;1º Lote;Inteira;360,0;Boleto;2025-11-05 18:30:00
+LBL-10032;USR-1218;22,0;Feminino;SP;Pista Premium;1º Lote;Meia Estudante;340,0;PIX;2025-11-05 19:00:00
+LBL-10033;USR-1219;28,0;Masculino;PE;Passaporte 3 Dias;1º Lote;Inteira;980,0;Cartão de Crédito - Parcelado;2025-11-05 20:00:00
+LBL-10034;USR-1220;19,0;Feminino;RS;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 20:30:00
+LBL-10035;USR-1221;32,0;Masculino;SP;Lounge VIP;1º Lote;Inteira;1250,0;Cartão de Crédito - Vista;2025-11-05 21:00:00
+LBL-10036;USR-1222;25,0;Feminino;SP;Pista Comum;1º Lote;Inteira;360,0;PIX;2025-11-05 21:30:00
+LBL-10037;USR-1223;21,0;Masculino;RJ;Pista Premium;1º Lote;Meia Estudante;340,0;PIX;2025-11-05 22:00:00
+LBL-10038;USR-1224;27,0;Feminino;SC;Passaporte 3 Dias;1º Lote;Meia Social (Alimento);490,0;Cartão de Crédito - Parcelado;2025-11-05 22:30:00
+LBL-10039;USR-1225;23,0;Não-Binário;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 23:00:00
+LBL-10040;USR-1226;36,0;Masculino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;2025-12-01 08:00:00
+LBL-10041;USR-1227;20,0;Feminino;MG;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;2025-12-01 09:00:00
+LBL-10042;USR-1228;29,0;Masculino;SP;Pista Premium;2º Lote;Inteira;782,0;Cartão de Crédito - Vista;2025-12-01 10:00:00
+LBL-10043;USR-1229;24,0;Feminino;PR;Passaporte 3 Dias;2º Lote;Meia Estudante;563,5;PIX;2025-12-01 11:00:00
+LBL-10044;USR-1230;27,0;Masculino;SP;Pista Comum;2º Lote;Inteira;414,0;Boleto;2025-12-01 12:00:00
+LBL-10045;USR-1231;31,0;Feminino;RJ;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;2025-12-01 13:00:00
+LBL-10046;USR-1232;22,0;Masculino;RS;Pista Comum;2º Lote;Meia Social (Alimento);207,0;PIX;2025-12-01 14:00:00
+LBL-10047;USR-1233;26,0;Feminino;SP;Pista Premium;2º Lote;Meia Estudante;391,0;PIX;2025-12-01 15:00:00
+LBL-10048;USR-1234;38,0;Masculino;BA;Passaporte 3 Dias;2º Lote;Inteira;1127,0;Cartão de Crédito - Parcelado;2025-12-01 16:00:00
+LBL-10049;USR-1235;18,0;Feminino;SP;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;2025-12-01 17:00:00
+LBL-10050;USR-1236;44,0;Masculino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Vista;2025-12-01 18:00:00
+LBL-10051;USR-1237;25,0;Feminino;DF;Pista Premium;2º Lote;Inteira;782,0;Cartão de Crédito - Parcelado;2025-12-01 19:00:00
+LBL-10052;USR-1238;21,0;Masculino;SP;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;2025-12-01 20:00:00
+LBL-10053;USR-1239;27,0;Feminino;SC;Passaporte 3 Dias;2º Lote;Meia Social (Alimento);563,5;PIX;2025-12-01 21:00:00
+LBL-10054;USR-1240;23,0;Masculino;MG;Pista Comum;2º Lote;Inteira;414,0;PIX;2025-12-01 22:00:00
+LBL-10055;USR-1241;30,0;Feminino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;2025-12-01 23:00:00
+LBL-10056;USR-1242;19,0;Não-Binário;RJ;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;02/12/2025 08:30
+LBL-10057;USR-1243;33,0;Masculino;SP;Pista Premium;2º Lote;Inteira;782,0;Cartão de Crédito - Vista;02/12/2025 09:30
+LBL-10058;USR-1244;28,0;Feminino;PE;Passaporte 3 Dias;2º Lote;Inteira;1127,0;Cartão de Crédito - Parcelado;02/12/2025 10:30
+LBL-10059;USR-1245;22,0;Masculino;SP;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;02/12/2025 11:30
+LBL-10060;USR-1246;50,0;Feminino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Vista;02/12/2025 12:30
+LBL-10061;USR-1247;24,0;Masculino;RS;Pista Premium;2º Lote;Meia Estudante;391,0;PIX;02/12/2025 13:30
+LBL-10062;USR-1248;20,0;Feminino;PR;Pista Comum;2º Lote;Meia Social (Alimento);207,0;PIX;02/12/2025 14:30
+LBL-10063;USR-1249;35,0;Masculino;SP;Passaporte 3 Dias;2º Lote;Inteira;1127,0;Cartão de Crédito - Parcelado;02/12/2025 15:30
+LBL-10064;USR-1250;26,0;Feminino;BA;Pista Comum;2º Lote;Inteira;414,0;Cartão de Crédito - Vista;02/12/2025 16:30
+LBL-10065;USR-1251;27,0;Masculino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;02/12/2025 17:30
+LBL-10066;USR-1252;21,0;Feminino;SP;Pista Premium;2º Lote;Meia Estudante;391,0;PIX;02/12/2025 18:30
+LBL-10067;USR-1253;29,0;Masculino;RJ;Passaporte 3 Dias;2º Lote;Meia Estudante;563,5;PIX;02/12/2025 19:30
+LBL-10068;USR-1254;18,0;Feminino;MG;Pista Comum;2º Lote;Meia Estudante;207,0;PIX;02/12/2025 20:30
+LBL-10069;USR-1255;37,0;Masculino;SP;Lounge VIP;2º Lote;Inteira;1437,5;Cartão de Crédito - Parcelado;02/12/2025 21:30
+LBL-10070;USR-1256;23,0;Feminino;SC;Pista Comum;2º Lote;Inteira;414,0;PIX;02/12/2025 22:30
+LBL-10071;USR-1257;27,0;Masculino;SP;Pista Premium;Lote Extra / Véspera;Inteira;884,0;Cartão de Crédito - Vista;2026-01-10 09:00:00
+LBL-10072;USR-1258;34,0;Feminino;DF;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;2026-01-10 10:00:00
+LBL-10073;USR-1259;20,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;2026-01-10 11:00:00
+LBL-10074;USR-1260;25,0;Feminino;RJ;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Parcelado;2026-01-10 12:00:00
+LBL-10075;USR-1261;22,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;2026-01-10 13:00:00
+LBL-10076;USR-1262;27,0;Feminino;RS;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;2026-01-10 14:00:00
+LBL-10077;USR-1263;42,0;Masculino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;2026-01-10 15:00:00
+LBL-10078;USR-1264;19,0;Feminino;PR;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;2026-01-10 16:00:00
+LBL-10079;USR-1265;30,0;Masculino;SP;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Vista;2026-01-10 17:00:00
+LBL-10080;USR-1266;28,0;Feminino;BA;Pista Premium;Lote Extra / Véspera;Inteira;884,0;Cartão de Crédito - Parcelado;2026-01-10 18:00:00
+LBL-10081;USR-1267;21,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Inteira;468,0;PIX;2026-01-10 19:00:00
+LBL-10082;USR-1268;39,0;Feminino;MG;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;2026-01-10 20:00:00
+LBL-10083;USR-1269;24,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;2026-01-10 21:00:00
+LBL-10084;USR-1270;26,0;Feminino;SC;Passaporte 3 Dias;Lote Extra / Véspera;Meia Estudante;637,0;PIX;2026-01-10 22:00:00
+LBL-10085;USR-1271;23,0;Masculino;SP;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;2026-01-10 23:00:00
+LBL-10086;USR-1272;31,0;Feminino;RJ;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;15/01/2026 10:00
+LBL-10087;USR-1273;18,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;15/01/2026 11:00
+LBL-10088;USR-1274;29,0;Feminino;PE;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Parcelado;15/01/2026 12:00
+LBL-10089;USR-1275;22,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;15/01/2026 13:00
+LBL-10090;USR-1276;46,0;Feminino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Vista;15/01/2026 14:00
+LBL-10091;USR-1277;20,0;Masculino;RS;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;15/01/2026 15:00
+LBL-10092;USR-1278;27,0;Feminino;SP;Pista Comum;Lote Extra / Véspera;Inteira;468,0;PIX;15/01/2026 16:00
+LBL-10093;USR-1279;35,0;Masculino;MG;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Parcelado;15/01/2026 17:00
+LBL-10094;USR-1280;24,0;Feminino;PR;Pista Premium;Lote Extra / Véspera;Inteira;884,0;Cartão de Crédito - Vista;15/01/2026 18:00
+LBL-10095;USR-1281;19,0;Não-Binário;SP;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;15/01/2026 19:00
+LBL-10096;USR-1282;33,0;Masculino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;15/01/2026 20:00
+LBL-10097;USR-1283;25,0;Feminino;BA;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;15/01/2026 21:00
+LBL-10098;USR-1284;28,0;Masculino;RJ;Passaporte 3 Dias;Lote Extra / Véspera;Meia Estudante;637,0;PIX;15/01/2026 22:00
+LBL-10099;USR-1285;21,0;Feminino;SP;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;15/01/2026 23:00
+LBL-10100;USR-1286;30,0;Masculino;DF;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;16/01/2026 09:00
+LBL-10101;USR-1287;22,0;Feminino;SP;Pista Comum;Lote Extra / Véspera;Inteira;468,0;PIX;16/01/2026 10:00
+LBL-10102;USR-1288;26,0;Masculino;SC;Pista Premium;Lote Extra / Véspera;Inteira;884,0;Cartão de Crédito - Vista;16/01/2026 11:00
+LBL-10103;USR-1289;38,0;Feminino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;16/01/2026 12:00
+LBL-10104;USR-1290;18,0;Masculino;MG;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;16/01/2026 13:00
+LBL-10105;USR-1291;29,0;Feminino;SP;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Parcelado;16/01/2026 14:00
+LBL-10106;USR-1292;23,0;Masculino;RS;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;16/01/2026 15:00
+LBL-10107;USR-1293;40,0;Feminino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Vista;16/01/2026 16:00
+LBL-10108;USR-1294;21,0;Masculino;PR;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;16/01/2026 17:00
+LBL-10109;USR-1295;27,0;Feminino;SP;Pista Comum;Lote Extra / Véspera;Inteira;468,0;PIX;16/01/2026 18:00
+LBL-10110;USR-1296;34,0;Masculino;RJ;Passaporte 3 Dias;Lote Extra / Véspera;Inteira;1274,0;Cartão de Crédito - Parcelado;16/01/2026 19:00
+LBL-10111;USR-1297;25,0;Feminino;SP;Pista Premium;Lote Extra / Véspera;Inteira;884,0;Cartão de Crédito - Vista;16/01/2026 20:00
+LBL-10112;USR-1298;20,0;Masculino;BA;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;16/01/2026 21:00
+LBL-10113;USR-1299;32,0;Feminino;SP;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;16/01/2026 22:00
+LBL-10114;USR-1300;24,0;Masculino;MG;Pista Comum;Lote Extra / Véspera;Meia Social (Alimento);234,0;PIX;16/01/2026 23:00
+LBL-10115;USR-1042;24,0;Feminino;SP;Pista Comum;1º Lote;Meia Estudante;180,0;PIX;2025-11-05 14:30:00
+LBL-10116;USR-1301;28,0;Feminino;SP;Passaporte 3 Dias;Lote Extra / Véspera;Meia Estudante;637,0;PIX;16/01/2026 23:30:00
+LBL-10117;USR-1302;22,0;Masculino;SP;Pista Premium;Lote Extra / Véspera;Meia Estudante;442,0;PIX;16/01/2026 23:45:00
+LBL-10118;USR-1303;36,0;Feminino;RJ;Lounge VIP;Lote Extra / Véspera;Inteira;1625,0;Cartão de Crédito - Parcelado;16/01/2026 23:55:00
+LBL-10119;USR-1304;19,0;Masculino;SP;Pista Comum;Lote Extra / Véspera;Meia Estudante;234,0;PIX;16/01/2026 23:59:00
